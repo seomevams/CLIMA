@@ -16,8 +16,8 @@ div#general{
 
 div#video{
 	margin:0px;
-	float:right;
-	width:900px;
+	float:center;
+	width:1000px;
 	height:400px;
 		font-family:arial;
 	background:body background="new.jpg";
