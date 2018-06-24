@@ -1,0 +1,580 @@
+*{
+margin:0px;
+padding:0px;
+}
+
+
+
+div#imagen{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(TROPICALHUMEDO.jpg);
+}
+
+	
+div#info{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen:hover div#info{
+	opacity:1;
+}
+
+P#headline{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+div#imagen:hover p#headline{
+	margin-left:70px
+}
+
+p#info2{
+	margin:auto;
+	width:320px;
+	text-align:center;
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen:hover p#info2{
+	margin-top:70px;
+	
+}
+
+
+
+
+
+
+div#imagen1{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(TROPICALHUMEDOYSECO.jpg);
+}
+
+	
+div#info1{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen1:hover div#info1{
+	opacity:1;
+}
+
+P#headlines{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+div#imagen1:hover p#headlines{
+	margin-left:70px
+}
+
+p#info11{
+	margin:auto;
+	width:320px;
+	text-align:center;
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen1:hover p#info11{
+	margin-top:70px;
+	
+}
+
+
+
+
+
+
+ div#imagen4{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(ARIDO.jpg);
+}
+
+	
+div#info4{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen4:hover div#info4{
+	opacity:1;
+}
+
+P#headlines1{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+div#imagen4:hover p#headlines1{
+	margin-left:70px
+}
+
+p#info41{
+	margin:auto;
+	width:320px;
+	text-align:center;
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen4:hover p#info41{
+	margin-top:70px;
+	
+}
+
+
+
+
+
+
+ div#imagen5{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(SEMIARIDO.jpg);
+}
+
+	
+div#info5{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen5:hover div#info5{
+	opacity:1;
+}
+
+P#headlines2{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+div#imagen5:hover p#headlines2{
+	margin-left:70px
+}
+
+p#info51{
+	margin:auto;
+	width:320px;
+	
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen5:hover p#info51{
+	margin-top:70px;
+	
+}
+
+
+
+div#imagen6{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(MEDITERRANEO.jpg);
+}
+
+	
+div#info6{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen6:hover div#info6{
+	opacity:1;
+}
+
+P#headlines3{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+div#imagen6:hover p#headlines3{
+	margin-left:70px
+}
+
+p#info61{
+	margin:auto;
+	width:320px;
+	
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen6:hover p#info61{
+	margin-top:70px;
+	
+}
+
+
+ div#imagen7{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(SUBTROPICALHUMEDO.jpg);
+}
+
+	
+div#info7{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen7:hover div#info7{
+	opacity:1;
+}
+
+P#headlines4{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+div#imagen7:hover p#headlines4{
+	margin-left:70px
+}
+
+p#info71{
+	margin:auto;
+	width:320px;
+	
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen7:hover p#info71{
+	margin-top:70px;
+	
+}
+
+
+
+
+ div#imagen8{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(MARINODELACOSTAOESTE.jpg);
+}
+
+	
+div#info8{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen8:hover div#info8{
+	opacity:1;
+}
+
+P#headlines5{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+ div#imagen8:hover p#headlines5{
+	margin-left:70px
+} 
+
+p#info81{
+	margin:auto;
+	width:320px;
+	
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen8:hover p#info81{
+	margin-top:70px;
+	
+}
+
+
+
+ div#imagen9{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(CONTINENTALHUMEDO.jpg);
+}
+
+	
+div#info9{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen9:hover div#info9{
+	opacity:1;
+}
+
+P#headlines6{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+ div#imagen9:hover p#headlines9{
+	margin-left:70px
+} 
+
+p#info91{
+	margin:auto;
+	width:320px;
+	
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen9:hover p#info91{
+	margin-top:70px;
+	
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ div#imagen10{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(SUBARTICO.jpg);
+}
+
+	
+div#info10{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen10:hover div#info10{
+	opacity:1;
+}
+
+P#headlines7{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+ div#imagen10:hover p#headlines10{
+	margin-left:70px
+} 
+
+p#info111{
+	margin:auto;
+	width:320px;
+	
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen10:hover p#info111{
+	margin-top:70px;
+	
+}
+
+ 
+ 
+ div#imagen11{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(TUNDRA.jpg);
+}
+
+	
+div#info11{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen11:hover div#info11{
+	opacity:1;
+}
+
+P#headlines121{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+ div#imagen11:hover p#headlines121{
+	margin-left:70px
+} 
+
+p#info123{
+	margin:auto;
+	width:320px;
+	
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen11:hover p#info123{
+	margin-top:70px;
+	
+}
+
+ 
+ 
+  
+ div#imagen12{
+	width:320px;
+	height:300px;
+	margin:30px;
+	background-image: url(CAPADEHIELO.jpg);
+}
+
+	
+div#info12{
+	position:absolute;
+	overflow:hidden;
+	width:320px;
+	height:300px;
+	background-color:rgba(31, 31, 31, 0.7);
+	-webkit-transition:opacity 0.2s;
+	color:white;
+	font-family:arial;
+	opacity:0;
+}	
+
+div#imagen12:hover div#info12{
+	opacity:1;
+}
+
+P#headlines123{
+	position:absolute;
+	margin-top:20px;
+	-webkit-transition:margin 0.2s;
+	margin-left:-70px;
+	font-size:21px;
+}
+
+ div#imagen12:hover p#headlines123{
+	margin-left:70px
+} 
+
+p#info112{
+	margin:auto;
+	width:320px;
+	
+	-webkit-transition:margin 0.3s;
+	margin-top:300px;
+}
+
+div#imagen12:hover p#info112{
+	margin-top:70px;
+	
+}
